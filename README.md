@@ -13,14 +13,14 @@ Built with **React** on the frontend, **Express** on the backend, and **Socket.I
 - User presence (who’s in the room).
 - Typing indicators.
 - Language selection broadcasted to all participants.
-- SPA frontend served from Express (production build).
+
 
 ## Tech Stack
 
 - **Frontend:** React  
 - **Backend:** Express (Node.js, ESM)  
 - **Realtime:** Socket.IO  
-- **Bundler/Dev:** Vite (assumed for React, adapt if different)  
+- **Bundler/Dev:** Vite  
 
 
 
